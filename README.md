@@ -3,10 +3,10 @@ This project analyzes the popularity of given names using the dataset of baby na
 
 # Results
 The notebook generates line plots for the names "Sara" and "John" over time, separated by gender. The results are displayed as two line 
-
 plots:
 
 One for male names
+
 One for female names
 
 Both plots show how the popularity of these names has changed over the years.
@@ -16,4 +16,5 @@ Both plots show how the popularity of these names has changed over the years.
 Based on the analysis:
 
 Sara: The name "Sara" is predominantly used as a female name. It had a peak in the late 20th century but has seen a decline in recent years.
+
 John: "John" has historically been a popular male name. Its popularity was extremely high in the early 20th century but has gradually decreased over time.
